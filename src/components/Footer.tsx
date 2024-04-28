@@ -41,7 +41,7 @@ export default function Footer() {
         <VStack spacing={5}>
           <Logo />
           <Text textAlign="center">
-            © 2023 {projectName}. All rights reserved
+            © 2024 {projectName}. All rights reserved
           </Text>
         </VStack>
         <VStack spacing={5}>
